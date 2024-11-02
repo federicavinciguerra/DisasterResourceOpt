@@ -14,6 +14,6 @@
 
 ## Installation
 ```bash
-git clone https://github.com/username/DisasterResourceOpt.git
+git clone https://github.com/federicavinciguerra/DisasterResourceOpt.git
 cd DisasterResourceOpt
 pip install -r requirements.txt
