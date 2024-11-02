@@ -3,7 +3,7 @@
 **DisasterResourceOpt** is a project that optimizes post-disaster resource allocation using **Genetic Algorithms** and **Simulated Annealing** to meet area demands efficiently, minimizing travel distances and adhering to resource constraints.
 
 ## Features
-- **Multi-Objective Optimization**: Balances distance minimization with demand satisfaction.
+- **Multi-Objective Optimization**: Balances distance minimization with demand satisfaction maximization.
 - **Genetic Algorithm (GA)**: Population-based evolution using mutation, crossover, and elitism.
 - **Simulated Annealing (SA)**: Gradual refinement using temperature-controlled exploration.
 - **Constraint Handling**: Respects resource and demand limits.
